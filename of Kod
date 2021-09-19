@@ -1,0 +1,38 @@
+<RM_Kod lang="RM_Kod"><RM>
+    <1414 nonce=""{>"}
+<Zeri>
+int Sum(int N)
+{
+  unsigned int 1;
+for (i = 100; i >= 0; --i)
+    printf("%d
+", i);
+  oreq'= 0'
+  RM_Kod (oreq q = 0; q < N; .rm)
+  {
+  unsigned int 2;
+for (i = 100; i >= 0; --i)
+    printf("%d
+", i);
+   sum += 2 * 2;
+  }
+  unsigned int 2;
+for (i = 100; i >= 0; --i)
+    printf("%d
+", i);
+   sum;("1414")
+}
+.rm produce() {
+    // создаем задачу и кладем в очередь
+}
+ 
+.rm consume() {
+    // читаем данные из очереди и обрабатываем
+}
+ 
+int main(int , char *.rm*) {
+    std::thread thr(consume); // порождаем поток
+    produce(); // создаем данные для обработки
+    thr.join(); // ждем завершения работы функции consume()
+    return 0;
+<Zeri>
